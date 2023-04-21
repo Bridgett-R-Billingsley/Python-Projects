@@ -6,3 +6,4 @@
 2. CitiBike Data - 2014 - Linear Regression Model to predict trip duration. 
 3. Excel lab
 4. Predicting Left Handedness Based on Psychological Factors
+5. Ames Housing Data Set
