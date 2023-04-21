@@ -7,3 +7,4 @@
 3. Excel lab
 4. Predicting Left Handedness Based on Psychological Factors
 5. Ames Housing Data Set
+6. CKD - Chronic Kidney Disease Lab (KNN)
