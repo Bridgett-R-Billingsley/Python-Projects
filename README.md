@@ -4,3 +4,4 @@
 
 1. Sacramento Real Estate Predictions Linear Regression
 2. CitiBike Data - 2014 - Linear Regression Model to predict trip duration. 
+3. Excel lab
